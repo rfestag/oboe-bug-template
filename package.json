@@ -1,0 +1,14 @@
+{
+  "name": "oboe-bug",
+  "version": "1.0.0",
+  "description": "A template to reproduce Oboe.js server-side bugs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JuanCaicedo",
+  "license": "ISC",
+  "dependencies": {
+    "oboe": "2.1.2"
+  }
+}

@@ -1,4 +1,4 @@
-# Oboe bug, server-side template
+# Template for Oboe.js server-side bugs
 
 The goal of this repo is to provide a quick template for you to recreate bugs
 you find with the [Oboe.js](https://github.com/jimhigson/oboe.js) library.

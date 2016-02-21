@@ -1,5 +1,5 @@
 {
-  "name": "oboe-bug",
+  "name": "oboe-bug-template",
   "version": "1.0.0",
   "description": "A template to reproduce Oboe.js server-side bugs",
   "main": "index.js",

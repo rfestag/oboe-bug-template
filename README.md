@@ -7,3 +7,7 @@ Fork this project and edit the files to demonstrate your bug, then provide a
 link to it when you file an [issue](https://github.com/jimhigson/oboe.js/issues).
 
 Thanks!
+
+## Getting started
+- Fork
+- `$ npm install`

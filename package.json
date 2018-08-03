@@ -1,14 +1,22 @@
 {
   "name": "oboe-bug-template",
   "version": "1.0.0",
-  "description": "A template to reproduce Oboe.js server-side bugs",
+  "description": "Example issue with Oboe not working with stream in Jest, but does work normally",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
-  "author": "JuanCaicedo",
+  "jest": {
+    "testEnvironment": "node"
+  },
+  "author": "Ryan Festag",
   "license": "ISC",
   "dependencies": {
-    "oboe": "2.1.2"
+    "oboe": "2.1.2",
+    "rxjs": "^6.2.2",
+    "rxjs-compat": "^6.2.2"
+  },
+  "devDependencies": {
+    "jest": "^23.4.2"
   }
 }
